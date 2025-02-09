@@ -17,7 +17,7 @@
         ]
     },
     "babdev/pagerfanta-bundle": {
-        "version": "v2.4.2"
+        "version": "v4.5.0"
     },
     "beberlei/doctrineextensions": {
         "version": "v1.2.7"
@@ -27,9 +27,6 @@
     },
     "bobdenotter/weatherwidget": {
         "version": "1.1.1"
-    },
-    "bobdenotter/yaml-migrations": {
-        "version": "dev-main"
     },
     "bolt/common": {
         "version": "2.1.5"
@@ -218,9 +215,6 @@
     "justinrainbow/json-schema": {
         "version": "5.2.9"
     },
-    "kevinlebrun/colors.php": {
-        "version": "0.4.1"
-    },
     "knplabs/doctrine-behaviors": {
         "version": "v2.0.1"
     },
@@ -298,9 +292,6 @@
     },
     "ondram/ci-detector": {
         "version": "3.5.1"
-    },
-    "pagerfanta/pagerfanta": {
-        "version": "v2.3.0"
     },
     "phar-io/manifest": {
         "version": "1.0.3"
@@ -776,9 +767,6 @@
     "symfony/security-csrf": {
         "version": "v4.4.4"
     },
-    "symfony/security-guard": {
-        "version": "v4.4.4"
-    },
     "symfony/security-http": {
         "version": "v4.4.4"
     },
@@ -862,15 +850,6 @@
             "config/packages/test/web_profiler.yaml",
             "config/routes/dev/web_profiler.yaml"
         ]
-    },
-    "symfony/web-server-bundle": {
-        "version": "3.3",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "3.3",
-            "ref": "dae9b39fd6717970be7601101ce5aa960bf53d9a"
-        }
     },
     "symfony/webpack-encore-bundle": {
         "version": "1.9",
